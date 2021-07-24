@@ -2,6 +2,11 @@
 
 A new Flutter application.
 
+> Note:  
+> So far the best way to develope flutter is still on an intel machine.  
+> The M1 support for android emulator is still a bit too weak (only on preview beta versions).  
+> The xcode however is working fine.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
